@@ -1,2 +1,5 @@
-mensa = input("Add a name: ")
-p = number
+x = 1
+while x <= 7:
+    message = "*" * x
+    print(message)
+    x += 1
