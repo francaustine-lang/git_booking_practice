@@ -1,0 +1,1 @@
+#Q9. Write a nested loop to print a multiplication table for numbers 6 to 10 (instead of 1–5).

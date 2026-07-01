@@ -1,0 +1,1 @@
+#Q10. Use a loop to count how many vowels (a, e, i, o, u) are in a given string, e.g. "Francaustine".
