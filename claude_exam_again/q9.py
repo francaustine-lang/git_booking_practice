@@ -1,0 +1,1 @@
+#Q9. Given word = "programming", use a loop to count how many vowels are in it (without using any built-in vowel-counting function).

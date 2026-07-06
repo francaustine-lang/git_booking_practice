@@ -1,0 +1,1 @@
+#Q7. Use a loop to check whether a given number is prime. Test it with n = 29.
