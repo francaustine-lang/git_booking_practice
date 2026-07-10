@@ -1,2 +1,11 @@
-x = int(input("Input a number: "))
-y = x**0.5
+# a loop that performs continuos multiplication until zero is inputted
+
+initial = 0
+while True:
+    
+    follow_up = int(input("INPUT ANY NUMBER: "))
+    if follow_up == 0:
+        break
+    initial = initial * follow_up
+
+print("The sum of your Numbers is: ", initial)
