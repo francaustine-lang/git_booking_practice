@@ -4,9 +4,3 @@ adjacency_list = {
 }
 
 print(adjacency_list)
-a = "Steady"
-i = ""
-
-for i in a:
-    i = i + ""
-    print(i) 
